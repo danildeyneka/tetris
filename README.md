@@ -1,3 +1,2 @@
 # tetris game
-Controls via keyboard arrows,
-Vanilla JS
+Controls via keyboard arrows
